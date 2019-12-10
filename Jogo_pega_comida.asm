@@ -1,7 +1,7 @@
  
  ###################################################################################################################
  # Jogo em Assembly Desenvolvido para Materia de AOC- 
- # Instrução: Professor Fabio Cappabianco
+ # Instrução: Professor Dr Fabio Cappabianco
  # Desenvolvedores : Lucas William
  #                   Eduardo Florentino
  ###################################################################################################################
