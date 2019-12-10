@@ -4,6 +4,9 @@
  # Instrução: Professor Dr Fabio Cappabianco
  # Desenvolvedores : Lucas William
  #                   Eduardo Florentino
+ # Utiliza tela de 512 x 1024 4 4 
+ # Utiliza Teclado
+ # Utiliza Som
  ###################################################################################################################
 .text
 	.globl Inicio
